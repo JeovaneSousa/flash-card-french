@@ -17,3 +17,5 @@ The following tools were used during the project development:
 * Pandas
 
 Here is how it looks:
+<img width="823" alt="Screenshot 2023-03-03 at 17 32 00" src="https://user-images.githubusercontent.com/66012358/222828849-c9bab79c-101d-4574-8e71-4250014a424e.png">
+<img width="823" alt="Screenshot 2023-03-03 at 17 32 13" src="https://user-images.githubusercontent.com/66012358/222828873-d21a6dc2-b6a8-4563-b41d-dad9328d5eb9.png">
